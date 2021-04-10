@@ -26,6 +26,7 @@ O Pokedex é um App de listagem e busca de Pokémons da primeira geração do an
 * JavaScript
 * Vue.js
 * Axios
+* PokeAPI
 
 <br>
 
